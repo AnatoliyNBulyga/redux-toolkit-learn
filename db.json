@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "sdfsdfsdf",
+      "body": "typicode"
+    },
+    {
+      "id": 9,
+      "title": "asdfasdfasdf",
+      "body": "typicode"
+    },
+    {
+      "title": "sadfasdf",
+      "body": "sadfasdf",
+      "id": 10
+    },
+    {
+      "title": "sadfasdfsdf",
+      "body": "sadfasdfsdf",
+      "id": 11
+    },
+    {
+      "title": "1234234",
+      "body": "1234234",
+      "id": 12
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
